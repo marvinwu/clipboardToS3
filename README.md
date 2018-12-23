@@ -26,3 +26,17 @@ pkg cli.js
 ## mandatory env variables
 
 ![](http://take.ms/03Dx0)
+
+
+## how to use this workflow
+
+* [download this](https://github.com/marvinwu/clipboardToS3/blob/master/workflow/clipboardToS3.alfredworkflow)
+* click to install
+* set [env variable](http://take.ms/03Dx0)
+
+trigger workflow by upload keyword
+
+
+
+
+
